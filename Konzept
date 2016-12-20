@@ -1,1 +1,20 @@
+Text Adventure
+Escape-Room
 
+1 Variante.
+Der Spieler ist im Zimmer eingesperrt.
+Im Zimmer gibt es viel Türen, der Ausgang und andere Spielpersonen(Rechner). 
+Der Spieler muss sich mit den handelnden Personen umgehen, die Antworten wählen und die notwendigen Aktionen machen.
+Das Ziel ist den Schlüssel zu finden, überzuleben und aus dem Zimmer herauszukommen.
+
+2 Variante. Das Zimmer-Turm
+Der Spieler befindet sich im Turm.
+Dort gibt es das Zimmer mit zwei/drei Löchern im Fußboden.
+Am Bildschirm erscheint die Frage, über den Luken erscheinen die Varianten der Antworten.
+Der Spieler springt in jenes Loch, wo die richtige Antwort für ihn sein kann.
+Je danach, wohin er gesprungen ist, erscheint die neue Szene und die neue Situation mit Fragen,
+die aus der Datenbank generiert wird.
+Das Ziel ist vom Turm herunterzusteigen und überzuleben.
+
+ Unity (2D)
+ Optional es kann noch Timer/Sound sein.
